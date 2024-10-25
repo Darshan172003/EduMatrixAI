@@ -55,11 +55,6 @@ const About = () => {
           the limit.
         </p>
         <br />
-        <span className="text-[22px]">Shahriarsajeeb&apos;s</span>
-        <h5 className="text-[18px] font-Poppins">
-          Founder and CEO of EduMatrixAI
-        </h5>
-        <br />
         <br />
         <br />
       </div>
