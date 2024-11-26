@@ -73,10 +73,10 @@ const Footer = (props: Props) => {
             <ul className="space-y-4">
               <li>
                 <Link
-                  href="https://www.youtube.com/channel/"
+                  href="https://discord.gg/mwE6JvM9"
                   className="text-base text-black dark:text-gray-300 dark:hover:text-white"
                 >
-                  Youtube
+                  Discord
                 </Link>
               </li>
               <li>
