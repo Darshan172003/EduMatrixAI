@@ -89,7 +89,7 @@ const Footer = (props: Props) => {
               </li>
               <li>
                 <Link
-                  href="https://www.github.com/"
+                  href="https://www.github.com/darshan172003"
                   className="text-base text-black dark:text-gray-300 dark:hover:text-white"
                 >
                   github

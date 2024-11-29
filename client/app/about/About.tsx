@@ -21,7 +21,7 @@ const About = () => {
         </p>
         <br />
         <p className="text-[18px] font-Poppins leading-8 text-gray-800 dark:text-gray-300">
-          Our YouTube channel is a treasure trove of informative videos on everything from programming basics to advanced techniques. But that&apos;s just the beginning. Our affordable courses are designed to give you the high-quality education you need to succeed in the industry, without breaking the bank.
+          Our platform is a treasure trove of informative videos on everything from programming basics to advanced techniques. But that&apos;s just the beginning. Our affordable courses are designed to give you the high-quality education you need to succeed in the industry, without breaking the bank.
         </p>
         <br />
         <p className="text-[18px] font-Poppins leading-8 text-gray-800 dark:text-gray-300">
